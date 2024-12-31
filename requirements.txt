@@ -21,3 +21,6 @@ pytest==8.0.2
 # Development Tools
 black==24.2.0
 flake8==7.0.0 
+
+# Data Visualization
+plotly==5.19.0 
